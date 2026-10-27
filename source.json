@@ -3,7 +3,7 @@
   "subtitle": "dont forget the two Ps!",
   "website": "google.com",
   "tintColor": "#E256FF",
-  "apps": [
+  "apps": [1
     {
       "name": "SoundMap",
       "bundleIdentifier": "com.portal.SoundMap",
@@ -11,7 +11,7 @@
       "localizedDescription": "Video Game style music player! (not the interface, just the features)",
       "iconURL": "file:///Users/felix/Desktop/SoundMap%20logo.png",
       "tintColor": "#E652FF",
-      "versions": [
+      "versions": [1
         {
           "version": "1.0",
           "buildVersion": "1",
