@@ -3,7 +3,7 @@
   "subtitle": "dont forget the two Ps!",
   "website": "google.com",
   "tintColor": "#E256FF",
-  "apps": [1
+  "apps": [
     {
       "name": "SoundMap",
       "bundleIdentifier": "com.portal.SoundMap",
@@ -11,12 +11,12 @@
       "localizedDescription": "Video Game style music player! (not the interface, just the features)",
       "iconURL": "file:///Users/felix/Desktop/SoundMap%20logo.png",
       "tintColor": "#E652FF",
-      "versions": [1
+      "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-10-27T16:49:52Z",
-          "downloadURL": "",
+          "downloadURL": "raw.githubusercontent.com/portal588/SoundMap.refs/heads/main/SoundMap.ipa",
           "size": 4738467,
           "minOSVersion": "26.6"
         },
