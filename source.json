@@ -1,0 +1,44 @@
+{
+  "name": "Portals Crapp (with 2 Ps)",
+  "subtitle": "dont forget the two Ps!",
+  "website": "google.com",
+  "tintColor": "#E256FF",
+  "apps": [
+    {
+      "name": "SoundMap",
+      "bundleIdentifier": "com.portal.SoundMap",
+      "developerName": "Portal",
+      "localizedDescription": "Video Game style music player! (not the interface, just the features)",
+      "iconURL": "file:///Users/felix/Desktop/SoundMap%20logo.png",
+      "tintColor": "#E652FF",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-27T16:49:52Z",
+          "downloadURL": "",
+          "size": 4738467,
+          "minOSVersion": "26.6"
+        },
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-27T16:47:10Z",
+          "downloadURL": "",
+          "size": 0
+        },
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-27T16:38:30Z",
+          "downloadURL": "",
+          "size": 0
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
